@@ -8,13 +8,13 @@ const Index = () => {
           Raghavapriyan<br />Saravanapriyan
         </h1>
         <p className="text-muted-foreground text-xs sm:text-sm tracking-[0.2em] uppercase mb-6">
-          CS Undergrad | VIT Vellore | Competitive Programmer | AI/ML
+          CS Undergrad | VIT Vellore | AI/ML
         </p>
         <p className="text-muted-foreground/40 text-[10px] sm:text-xs tracking-[0.5em] uppercase font-bold mt-8">
           FOR THE LOVE OF THE GAME
         </p>
         <p className="text-muted-foreground text-xs sm:text-sm font-mono mt-6">
-          &gt; Linux &gt;&gt;&gt; | I build things that load fast and scale intellectually.<span className="cursor-blink">█</span>
+          I build epic stuff.<span className="cursor-blink">█</span>
         </p>
       </section>
 
@@ -52,7 +52,7 @@ const Index = () => {
         <p className="text-muted-foreground text-xs mb-4">// CONTRIBUTIONS</p>
         <div className="overflow-x-auto">
           <img 
-            src="https://ghchart.rshah.org/ffffff/RaghavapriyanSaravanapriyan" 
+            src="https://ghchart.rshah.org/4dd74e/RaghavapriyanSaravanapriyan" 
             alt="GitHub Contributions"
             className="max-w-full h-auto"
             loading="lazy"
