@@ -52,7 +52,7 @@ const Index = () => {
         <p className="text-muted-foreground text-xs mb-4">// CONTRIBUTIONS</p>
         <div className="overflow-x-auto">
           <img 
-            src="https://ghchart.rshah.org/ffffff/RaghavapriyanSaravanapriyan" 
+            src="https://ghchart.rshah.org/4dd74e/RaghavapriyanSaravanapriyan" 
             alt="GitHub Contributions"
             className="max-w-full h-auto"
             loading="lazy"
