@@ -3,24 +3,18 @@ const Index = () => {
     <main className="min-h-screen bg-background text-foreground">
       {/* Hero Section */}
       <section className="min-h-screen flex flex-col items-center justify-center px-4 text-center">
-        <h1 className="text-2xl sm:text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-6 leading-tight">
-          Why do you need design,<br />
-          when you can have <span className="text-muted-foreground">SPEED</span>?
+        <p className="text-muted-foreground text-xs tracking-[0.3em] uppercase mb-6">// IDENTITY</p>
+        <h1 className="text-3xl sm:text-5xl md:text-6xl lg:text-7xl font-bold tracking-tighter mb-4 leading-[0.9]">
+          Raghavapriyan<br />Saravanapriyan
         </h1>
-        <p className="text-muted-foreground text-sm sm:text-base md:text-lg">
-          Static. Fast. Honest. Engineer-first.<span className="cursor-blink">█</span>
-        </p>
-      </section>
-
-      {/* Identity */}
-      <section className="px-4 sm:px-8 md:px-16 lg:px-32 py-16 border-t border-border">
-        <p className="text-muted-foreground text-xs mb-2">// IDENTITY</p>
-        <h2 className="text-xl sm:text-2xl md:text-3xl font-bold mb-2">Raghavapriyan Saravanapriyan</h2>
-        <p className="text-muted-foreground text-sm sm:text-base mb-4">
+        <p className="text-muted-foreground text-xs sm:text-sm tracking-[0.2em] uppercase mb-6">
           CS Undergrad | VIT Vellore | Competitive Programmer | AI/ML
         </p>
-        <p className="text-muted-foreground text-xs sm:text-sm font-mono">
-          &gt; Linux &gt;&gt;&gt; | I build things that load fast and scale intellectually.
+        <p className="text-muted-foreground/40 text-[10px] sm:text-xs tracking-[0.5em] uppercase font-bold mt-8">
+          FOR THE LOVE OF THE GAME
+        </p>
+        <p className="text-muted-foreground text-xs sm:text-sm font-mono mt-6">
+          &gt; Linux &gt;&gt;&gt; | I build things that load fast and scale intellectually.<span className="cursor-blink">█</span>
         </p>
       </section>
 
